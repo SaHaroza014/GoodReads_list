@@ -1,0 +1,103 @@
+GoodReads Best Books of 20th Century: 
+
+                     authors                                             titles
+0                 Harper Lee                              To Kill a Mockingbird
+1              George Orwell                                               1984
+2        F. Scott Fitzgerald                                   The Great Gatsby
+3               J.K. Rowling  Harry Potter and the Sorcerer's Stone (Harry P...
+4              George Orwell                                        Animal Farm
+5             J.R.R. Tolkien                                         The Hobbit
+6   Antoine de Saint-Exupéry                                  The Little Prince
+7               Ray Bradbury                                     Fahrenheit 451
+8              J.D. Salinger                             The Catcher in the Rye
+9                 C.S. Lewis  The Lion, the Witch and the Wardrobe (Chronicl...
+10            John Steinbeck                                The Grapes of Wrath
+11    Gabriel García Márquez                      One Hundred Years of Solitude
+12             Aldous Huxley                                    Brave New World
+13         Margaret Mitchell                                 Gone with the Wind
+14            John Steinbeck                                    Of Mice and Men
+15              J.K. Rowling  Harry Potter and the Prisoner of Azkaban (Harr...
+16                Lois Lowry                          The Giver (The Giver, #1)
+17           William Golding                                  Lord of the Flies
+18         Kurt Vonnegut Jr.                                Slaughterhouse-Five
+19          Vladimir Nabokov                                             Lolita
+20            John Steinbeck                                       East of Eden
+21           Margaret Atwood      The Handmaid's Tale (The Handmaid's Tale, #1)
+22            J.R.R. Tolkien  The Fellowship of the Ring (The Lord of the Ri...
+23                 Ken Kesey                    One Flew Over the Cuckoo's Nest
+24             Douglas Adams  The Ultimate Hitchhiker's Guide to the Galaxy ...
+25              Albert Camus                                       The Stranger
+26             Arthur Golden                                Memoirs of a Geisha
+27              J.K. Rowling  Harry Potter and the Chamber of Secrets (Harry...
+28                E.B. White                                    Charlotte's Web
+29                C.S. Lewis  The Chronicles of Narnia (Chronicles of Narnia...
+30         Madeleine L'Engle               A Wrinkle in Time (Time Quintet, #1)
+31          Ernest Hemingway                            The Old Man and the Sea
+32          Orson Scott Card                    Ender's Game (Ender's Saga, #1)
+33          Shel Silverstein                                    The Giving Tree
+34            J.R.R. Tolkien  The Return of the King (The Lord of the Rings,...
+35            J.R.R. Tolkien         The Two Towers (The Lord of the Rings, #2)
+36               Elie Wiesel                     Night  (The Night Trilogy, #1)
+37              Betty  Smith                           A Tree Grows in Brooklyn
+38              Sylvia Plath                                       The Bell Jar
+39            Richard  Adams                Watership Down (Watership Down, #1)
+40              Paulo Coelho                                      The Alchemist
+41           L.M. Montgomery    Anne of Green Gables (Anne of Green Gables, #1)
+42             Truman Capote                                      In Cold Blood
+43                 Dr. Seuss                                 Green Eggs and Ham
+44                  Ayn Rand                                     Atlas Shrugged
+45              Alice Walker                                   The Color Purple
+46        Barbara Kingsolver                               The Poisonwood Bible
+47    Gabriel García Márquez                        Love in the Time of Cholera
+48               Franz Kafka                                  The Metamorphosis
+49             Hermann Hesse                                         Siddhartha
+50        Arthur Conan Doyle                       The Complete Sherlock Holmes
+51   Frances Hodgson Burnett                                  The Secret Garden
+52              Stephen King                                          The Stand
+53         Daphne du Maurier                                            Rebecca
+54             Milan Kundera                  The Unbearable Lightness of Being
+55               Umberto Eco                               The Name of the Rose
+56               John Irving                            A Prayer for Owen Meany
+57            Maurice Sendak                          Where the Wild Things Are
+58             Frank Herbert                                    Dune (Dune, #1)
+59                 Dr. Seuss                                          The Lorax
+60                Roald Dahl  Charlie and the Chocolate Factory (Charlie Buc...
+61               Ken Follett         The Pillars of the Earth (Kingsbridge, #1)
+62          Mikhail Bulgakov                           The Master and Margarita
+63               S.E. Hinton                                      The Outsiders
+64             Douglas Adams  The Hitchhiker's Guide to the Galaxy (Hitchhik...
+65              Jack Kerouac                                        On the Road
+66          Ernest Hemingway                                 The Sun Also Rises
+67               James Joyce                                            Ulysses
+68             Toni Morrison                      Beloved (Beloved Trilogy, #1)
+69      Erich Maria Remarque                     All Quiet on the Western Front
+70             Pearl S. Buck                The Good Earth (House of Earth, #1)
+71        John Kennedy Toole                            A Confederacy of Dunces
+72             Frank McCourt                 Angela's Ashes (Frank McCourt, #1)
+73                   Amy Tan                                  The Joy Luck Club
+74                  Ayn Rand                                   The Fountainhead
+75          Ernest Hemingway                            For Whom the Bell Tolls
+76          William Faulkner                             The Sound and the Fury
+77               John Irving                        The World According to Garp
+78      Laura Ingalls Wilder     Little House on the Prairie (Little House, #3)
+79           Anthony Burgess                                 A Clockwork Orange
+80          Ernest Hemingway                                 A Farewell to Arms
+81        Zora Neale Hurston                       Their Eyes Were Watching God
+82             Ralph Ellison                                      Invisible Man
+83              Wilson Rawls                           Where the Red Fern Grows
+84              Daniel Keyes                               Flowers for Algernon
+85                C.S. Lewis                                  Mere Christianity
+86            Samuel Beckett                                  Waiting for Godot
+87            Larry McMurtry                  Lonesome Dove (Lonesome Dove, #1)
+88               Tim O'Brien                            The Things They Carried
+89        George R.R. Martin     A Game of Thrones (A Song of Ice and Fire, #1)
+90             Anita Diamant                                       The Red Tent
+91            William Styron                                    Sophie's Choice
+92            Virginia Woolf                                  To the Lighthouse
+93        Hunter S. Thompson                     Fear and Loathing in Las Vegas
+94             J.D. Salinger                                   Franny and Zooey
+95             José Saramago                                          Blindness
+96               James Joyce            A Portrait of the Artist as a Young Man
+97         Kurt Vonnegut Jr.                                       Cat's Cradle
+98                A.A. Milne              Winnie-the-Pooh (Winnie-the-Pooh, #1)
+99           Agatha Christie                           And Then There Were None
